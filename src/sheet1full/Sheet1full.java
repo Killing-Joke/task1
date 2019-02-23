@@ -22,6 +22,7 @@ public class Sheet1full {
         p=in.nextInt();
         cost= (p/r)*d;
         System.out.println(cost);
+        System.out.println("Dada");
     }
     }
     
